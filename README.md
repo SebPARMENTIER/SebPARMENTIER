@@ -1,4 +1,4 @@
-![Cover](https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/img/imageonline-co-roundcorner.png)
+![Cover](https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png)
 
 ### Hi there 👋
 
