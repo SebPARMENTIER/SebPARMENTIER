@@ -1,3 +1,5 @@
+![Cover](https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/depositphotos_386618152-stock-photo-close-up-of-react-javascript.jpg)
+
 ### Hi there 👋
 
 <!--
