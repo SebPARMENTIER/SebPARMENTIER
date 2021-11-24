@@ -1,4 +1,4 @@
-![Cover](https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png)     [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238239BB&lines=I'm+a+front-end+developer..;I'm+a+back-end+developer..;I'm+a+fullstack+developer+!)](https://git.io/typing-svg)
+![Cover](https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238239BB&size=35&lines=I'm+a+front-end+developer..;I'm+a+back-end+developer..;I'm+a+fullstack+developer+!!)](https://git.io/typing-svg)
 
 ![image](icons/html.gif) ![image](icons/css.gif) ![image](icons/javascript.gif)
 ![image](icons/react.webp) ![image](icons/node.webp) 
