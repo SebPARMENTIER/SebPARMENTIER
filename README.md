@@ -1,6 +1,6 @@
 <h1>Hello, I'm Seb !</h1>
 
-<img align='right' src="https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png" width="230">
+<img align='right' src="https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png" width="200">
 
 <br>
 <br>
