@@ -7,6 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238239BB&size=35&vCenter=true&width=550&lines=I'm+a+front-end+developer..;I'm+a+back-end+developer..;I'm+a+fullstack+developer+!!)](https://git.io/typing-svg)
 
+<br>
+<br>
+
 <h2>My Web Technologies</h2>
 
 <h4>Languages</h4>
@@ -56,6 +59,11 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<h2>My Stats and Most Used Languages</h2>
+
+![SebPARMENTIER's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebPARMENTIER&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebPARMENTIER&layout=compact&theme=midnight-purple)](https://github.com/SebPARMENTIER/github-readme-stats)
 
 <h2>Contact Me</h2>
 
