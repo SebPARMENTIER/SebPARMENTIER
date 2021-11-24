@@ -1,17 +1,13 @@
-<h2>Hello, I'm Seb !</h2>
-
+<h1>Hello, I'm Seb !</h1>
 
 <img align='right' src="https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png" width="230">
 
 <br>
 <br>
 <br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238239BB&size=35&vCenter=true&width=550&lines=I'm+a+front-end+developer..;I'm+a+back-end+developer..;I'm+a+fullstack+developer+!!)](https://git.io/typing-svg)
-
-![image](icons/html.gif) ![image](icons/css.gif) ![image](icons/javascript.gif)
-![image](icons/react.webp) ![image](icons/node.webp) 
-![image](icons/vscode.webp) ![image](icons/git.webp)
 
 ### Hi there 👋
 
