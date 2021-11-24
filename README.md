@@ -1,8 +1,7 @@
 <h1>Hello, I'm Seb !</h1>
 
-<img align='right' src="https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png" width="200">
+<img align='right' src="https://github.com/SebPARMENTIER/SebPARMENTIER/blob/main/img/cover_rounded.png" width="150">
 
-<br>
 <br>
 <br>
 <br>
